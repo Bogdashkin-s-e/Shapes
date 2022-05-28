@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/circle.hpp
+string
+-
+sstream
+-
+typeinfo
+-
+figure.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+point.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/point.hpp
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+string
+-
+typeinfo
+-
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/line.hpp
+string
+-
+sstream
+-
+typeinfo
+-
+figure.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+point.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/point.hpp
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/main.cpp
+iostream
+-
+stdexcept
+-
+line.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/line.hpp
+point.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/point.hpp
+space.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/space.hpp
+circle.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/circle.hpp
+rectangle.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/rectangle.hpp
+triangle.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/triangle.hpp
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/point.hpp
+vector
+-
+string
+-
+sstream
+-
+stdexcept
+-
+typeinfo
+-
+figure.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/rectangle.hpp
+string
+-
+sstream
+-
+typeinfo
+-
+figure.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+point.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/point.hpp
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/space.hpp
+iostream
+-
+vector
+-
+stdexcept
+-
+typeinfo
+-
+figure.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/triangle.hpp
+string
+-
+sstream
+-
+typeinfo
+-
+figure.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/figure.hpp
+point.hpp
+/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/point.hpp
+

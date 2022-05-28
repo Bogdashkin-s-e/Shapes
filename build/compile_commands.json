@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sergey/Desktop/LABAR 4/lab 5 geometr/build",
+  "command": "/usr/bin/g++   -I\"/home/sergey/Desktop/LABAR 4/lab 5 geometr/hdrs\"  -g   -o CMakeFiles/Lab_1.dir/src/main.cpp.o -c \"/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/main.cpp\"",
+  "file": "/home/sergey/Desktop/LABAR 4/lab 5 geometr/src/main.cpp"
+}
+]
